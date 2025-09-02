@@ -9,6 +9,7 @@
   ////.then((result) => console.log(result))
 //.catch((error) => console.error(error));
   //End of nola//
+  onEvent 
 var newOrleansWeather=
   {
     "latitude": 29.95653,
