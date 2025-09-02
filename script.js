@@ -37,4 +37,7 @@ var newOrleansWeather=
         "weathercode": 2
     }
 }
-
+// Display weather data
+setText("temp", newOrleansWeather.current_weather.temperature);
+setText("wind", newOrleansWeather.current_weather.windspeed);
+setText("code", newOrleansWeather.current_weather.weathercode);
