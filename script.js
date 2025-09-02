@@ -1,3 +1,4 @@
+console.log current_
 //Nola current /
 //const requestOptions = {
   method: "GET",

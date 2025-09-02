@@ -1,12 +1,11 @@
-<button id= NewOrealens
 {
-    "latitude": 40.710335,
-    "longitude": -73.99309,
-    "generationtime_ms": 0.08273124694824219,
+    "latitude": 47.0,
+    "longitude": 122.0,
+    "generationtime_ms": 0.049233436584472656,
     "utc_offset_seconds": 0,
     "timezone": "GMT",
     "timezone_abbreviation": "GMT",
-    "elevation": 27.0,
+    "elevation": 437.0,
     "current_weather_units": {
         "time": "iso8601",
         "interval": "seconds",
@@ -17,12 +16,12 @@
         "weathercode": "wmo code"
     },
     "current_weather": {
-        "time": "2025-09-02T16:30",
+        "time": "2025-09-02T16:45",
         "interval": 900,
-        "temperature": 24.5,
-        "windspeed": 9.9,
-        "winddirection": 80,
-        "is_day": 1,
+        "temperature": 15.6,
+        "windspeed": 4.8,
+        "winddirection": 13,
+        "is_day": 0,
         "weathercode": 3
     }
 }
