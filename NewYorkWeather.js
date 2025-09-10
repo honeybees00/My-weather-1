@@ -1,5 +1,6 @@
 ///New your Weather///
-Var NewyorkWeather=
+
+var NewyorkWeather=
 {
     "latitude": 40.710335,
     "longitude": -73.99309,
